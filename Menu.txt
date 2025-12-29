@@ -1,0 +1,4 @@
+Risotto. Origin: Italy, Allergens: None, Calories: 250 kcal, Price: 12.9 SAR.
+Adobo. Origin: Philippines, Allergens: Soy, Calories: 230 kcal, Price: 13.9 SAR.
+Biryani. Origin: India, Allergens: Dairy, Calories: 350 kcal, Price: 14.95 SAR.
+Kabsa. Origin: Saudi Arabia, Allergens: Nuts, Calories: 350 kcal, Price: 12.95 SAR.
